@@ -4,9 +4,8 @@
 ---
 
 ### 👨‍💻 About Me
-- 💡 I'm passionate about **systems programming**, **AI tools**, and **embedded systems**.  
-- 🎓 Pursuing **BE in Computer Engineering** at Dartmouth & **BA in CS/Physics** at Colby.  
-- ⚙️ I’ve built projects like a **multi-threaded Tiny Search Engine (C, pthreads, libcurl)** and **Schedulo (React, Flask, PostgreSQL)**.  
+- 💡 I'm passionate about **data anlytics**, **AI tools**, and **embedded systems**.  
+- 🎓 Pursuing **BE in Electrical Engineering** at Dartmouth & **BA in CS/Physics** at Colby.  
 - 🌱 Currently exploring **distributed systems**, **embedded ML**, and **emulation of quantum physics using analog circuits**.  
 - 🧠 Fun fact: I can switch from **low-level C debugging** to **building full-stack apps** without switching playlists.  
 
